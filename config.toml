@@ -14,24 +14,19 @@ theme = "aerial"
 [[params.social]]
   medium = "Twitter"
   icon = "twitter"
-  link = "#"
+  link = "https://twitter.com/OmegaGamesGG"
 
 [[params.social]]
   medium = "Facebook"
   icon = "facebook"
-  link = "#"
+  link = "https://www.facebook.com/OmegaGamesGG"
 
 [[params.social]]
-  medium = "Dribbble"
-  icon = "dribbble"
-  link = "#"
-
-[[params.social]]
-  medium = "Github"
-  icon = "github"
-  link = "#"
+  medium = "Instagram"
+  icon = "instagram"
+  link = "https://www.instagram.com/OmegaGamesGG/"
 
 [[params.social]]
   medium = "Email"
   icon = "envelope-o"
-  link = "#"
+  link = "mailto:Ron@OmegaGames.GG"
